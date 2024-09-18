@@ -1,5 +1,5 @@
 {
-  "name": "Floating_TNT_Crate_ThreeJS",
+  "name": "floating_tnt_crate_threejs",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
-    "vite": "^5.4.2"
+    "vite": "^5.4.6"
   }
 }
