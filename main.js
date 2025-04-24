@@ -15,7 +15,7 @@ document.body.appendChild( renderer.domElement );
 // CREATE A CUBE
 
 const textureLoader = new THREE.TextureLoader();
-const texture = textureLoader.load('/assets/images/tntcrate.gif')
+const texture = textureLoader.load('/assets/images/tntcrate.jpg')
 
 const geometry = new THREE.BoxGeometry( 1, 1, 1 );
 
