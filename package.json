@@ -1,4 +1,9 @@
 {
+  "name": "floating_tnt_crate_threejs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "dependencies": {
     "three": "^0.167.1"
   },
